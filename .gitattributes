@@ -1,0 +1,2 @@
+socialapp/** filter=lfs diff=lfs merge=lfs -text
+socialapp2/** filter=lfs diff=lfs merge=lfs -text
