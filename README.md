@@ -8,7 +8,7 @@ import TimeAgo from 'javascript-time-ago'
 import en from 'javascript-time-ago/locale/en.json'  
 
   
-  __本專案由Next.js13.0.1製作，使用tailwind切版，Supabase進行登入GOOGLE驗證及前、後端資訊傳遞，加入TimeAgo的功能，能顯示使用者的發文時間__  
+  __本專案由Next.js@13.0.1製作，使用tailwind切版，Supabase進行登入GOOGLE驗證及前、後端資訊傳遞，加入TimeAgo的功能，能顯示使用者的發文時間__  
   
   # GoogleOath登入  
   ![1](https://github.com/jeff50508/socialmediaweb/assets/111333990/1b72fbaa-d147-4fc7-b8bf-8c8a1983eefa)
